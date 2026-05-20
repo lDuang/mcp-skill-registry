@@ -21,6 +21,9 @@
     },
     {
       "repo": "https://github.com/better-auth/skills.git"
+    },
+    {
+      "repo": "https://github.com/wangxu-dev/epub-translator-skills.git"
     }
   ]
 }
