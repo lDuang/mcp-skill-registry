@@ -1,7 +1,7 @@
 {
   "name": "internal-comms",
   "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
-  "head": "da20c92503b2e8ff1cf28ca81a0df4673debdbf7",
-  "updatedAt": "2026-06-07T06:36:28Z",
-  "checkedAt": "2026-06-07T06:36:28Z"
+  "head": "c30d329f5814647c1e2f071020c1e8c1c9893ef1",
+  "updatedAt": "2026-06-08T06:52:17Z",
+  "checkedAt": "2026-06-08T06:52:17Z"
 }
