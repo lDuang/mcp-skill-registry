@@ -2,6 +2,6 @@
   "name": "swift-concurrency",
   "description": "Diagnose Swift Concurrency issues, refactor callback-based code to async/await, and guide Swift 6 migration when working with tasks, actors, @MainActor, Sendable, data races, thread safety, or concurrency-related compiler and linter warnings.",
   "head": "0d472de78225d2875283c35eaca1c060c493bdb3",
-  "updatedAt": "2026-06-28T06:25:59Z",
-  "checkedAt": "2026-06-28T06:25:59Z"
+  "updatedAt": "2026-06-29T06:56:51Z",
+  "checkedAt": "2026-06-29T06:56:51Z"
 }
