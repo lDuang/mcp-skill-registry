@@ -1,7 +1,7 @@
 {
   "name": "remotion",
-  "description": "Best practices for Remotion - Video creation in React",
-  "head": "8dad6ec5c5c7cedee4d2aa620bb68386f8fe8eb9",
-  "updatedAt": "2026-07-06T06:43:21Z",
-  "checkedAt": "2026-07-06T06:43:21Z"
+  "description": "Best practices and domain knowledge for building videos programmatically with Remotion (videos in React/TypeScript, rendered to MP4). Use whenever writing or editing Remotion code — scaffolding a video project, animating with interpolate/spring over useCurrentFrame(), sequencing scenes and transitions, captions/subtitles, audio, GIFs/Lottie/3D, charts, visual effects, dynamic duration via calculateMetadata, or rendering. Consult before reaching for a Remotion API, since its components and props evolve (e.g. @remotion/media).",
+  "head": "6726bf2d4bcce0359806749b3656b0c886d74aaa",
+  "updatedAt": "2026-07-07T06:15:11Z",
+  "checkedAt": "2026-07-07T06:15:11Z"
 }
