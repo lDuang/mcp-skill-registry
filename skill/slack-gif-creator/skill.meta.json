@@ -1,7 +1,7 @@
 {
   "name": "slack-gif-creator",
   "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
-  "head": "fa0fa64bdc967915dc8399e803be67759e1e62b8",
-  "updatedAt": "2026-07-22T05:25:33Z",
-  "checkedAt": "2026-07-22T05:25:33Z"
+  "head": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+  "updatedAt": "2026-07-23T05:31:02Z",
+  "checkedAt": "2026-07-23T05:31:02Z"
 }
