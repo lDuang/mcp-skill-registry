@@ -2,7 +2,7 @@
   "name": "vercel-optimize",
   "description": "Use for Vercel cost and performance optimization on deployed projects, especially Next.js, SvelteKit, Nuxt, and limited Astro apps. Collect Vercel metrics, usage, project config, and code scan results first; investigate only metric-backed candidates; produce ranked recommendations grounded in verified files and version-aware Vercel/framework docs. Trigger for Vercel bill reduction, slow or expensive routes, caching opportunities, Function Invocations, Build Minutes, Fast Data Transfer, Core Web Vitals, Bot Management, Fluid compute, or cost breakdown requests.",
   "version": "1.2.0",
-  "head": "fb0282c76b8bbd709e1a5dadb32bb4aa463cdd9b",
-  "updatedAt": "2026-07-24T05:26:41Z",
-  "checkedAt": "2026-07-24T05:26:41Z"
+  "head": "7c180d9044c9ae2b442b567aad4e42a28dd5ed62",
+  "updatedAt": "2026-07-25T05:21:07Z",
+  "checkedAt": "2026-07-25T05:21:07Z"
 }

@@ -2,7 +2,7 @@
   "name": "deploy-to-vercel",
   "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
   "version": "3.0.0",
-  "head": "fb0282c76b8bbd709e1a5dadb32bb4aa463cdd9b",
-  "updatedAt": "2026-07-24T05:26:41Z",
-  "checkedAt": "2026-07-24T05:26:41Z"
+  "head": "7c180d9044c9ae2b442b567aad4e42a28dd5ed62",
+  "updatedAt": "2026-07-25T05:21:07Z",
+  "checkedAt": "2026-07-25T05:21:07Z"
 }
