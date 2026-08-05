@@ -1,6 +1,6 @@
 {
-  "name": "remotion-maps",
-  "description": "Remotion Map animation knowledge",
+  "name": "remotion-studio",
+  "description": "Preview a Remotion video",
   "version": "4.0.506",
   "head": "7809e7935bc2e18f4b86526fa6022e6aadd8fe8b",
   "updatedAt": "2026-08-05T05:20:30Z",
