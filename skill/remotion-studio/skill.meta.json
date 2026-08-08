@@ -1,8 +1,8 @@
 {
   "name": "remotion-studio",
   "description": "Preview a Remotion video",
-  "version": "4.0.506",
-  "head": "7809e7935bc2e18f4b86526fa6022e6aadd8fe8b",
-  "updatedAt": "2026-08-07T04:29:41Z",
-  "checkedAt": "2026-08-07T04:29:41Z"
+  "version": "4.0.507",
+  "head": "eed702478ce34eff4eb77230b748375332c536ae",
+  "updatedAt": "2026-08-08T03:38:38Z",
+  "checkedAt": "2026-08-08T03:38:38Z"
 }

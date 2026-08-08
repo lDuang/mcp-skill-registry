@@ -2,6 +2,6 @@
   "name": "security",
   "description": "Configure rate limiting, manage auth secrets, set up CSRF protection, define trusted origins, secure sessions and cookies, encrypt OAuth tokens, track IP addresses, and implement audit logging for Better Auth. Use when users need to secure their auth setup, prevent brute force attacks, or harden a Better Auth deployment.",
   "head": "17dfe3a1da1c3982de723098ba1015d67f35694c",
-  "updatedAt": "2026-08-07T04:29:41Z",
-  "checkedAt": "2026-08-07T04:29:41Z"
+  "updatedAt": "2026-08-08T03:38:38Z",
+  "checkedAt": "2026-08-08T03:38:38Z"
 }
