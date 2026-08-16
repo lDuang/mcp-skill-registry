@@ -2,6 +2,6 @@
   "name": "epub-translator-toolkit",
   "description": "AI-assisted EPUB book translation. Extracts text while preserving code blocks, supports progressive batch translation via JSON workflow, and rebuilds translated EPUBs. Language-agnostic — works with any source/target language pair. Use when translating EPUB books or batch-processing book translations with AI assistance.",
   "head": "f1396ccb404deabd6c25940bfc64ebe46d7adc57",
-  "updatedAt": "2026-08-15T02:57:02Z",
-  "checkedAt": "2026-08-15T02:57:02Z"
+  "updatedAt": "2026-08-16T03:05:56Z",
+  "checkedAt": "2026-08-16T03:05:56Z"
 }
