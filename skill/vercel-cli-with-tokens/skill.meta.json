@@ -3,6 +3,6 @@
   "description": "Deploy and manage projects on Vercel using token-based authentication. Use when working with Vercel CLI using access tokens rather than interactive login — e.g. \"deploy to vercel\", \"set up vercel\", \"add environment variables to vercel\".",
   "version": "1.0.0",
   "head": "b8caa260a420a73042e35521de4b5c8baf6446cc",
-  "updatedAt": "2026-08-16T03:05:56Z",
-  "checkedAt": "2026-08-16T03:05:56Z"
+  "updatedAt": "2026-08-17T03:05:44Z",
+  "checkedAt": "2026-08-17T03:05:44Z"
 }
