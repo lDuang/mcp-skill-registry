@@ -1,7 +1,7 @@
 {
   "name": "pptx",
   "description": "Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or both. This includes: creating slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx or .potx file (even if the extracted content will be used elsewhere, like in an email or summary); editing, modifying, or updating existing presentations; combining or splitting slide files; working with templates (.potx), layouts, speaker notes, or comments. Trigger whenever the user mentions \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" or references a .pptx or .potx filename, regardless of what they plan to do with the content afterward. If a .pptx or .potx file needs to be opened, created, or touched, use this skill.",
-  "head": "f379e5ad66e2febc1616cf8d6284666fecbe514e",
-  "updatedAt": "2026-08-18T03:01:00Z",
-  "checkedAt": "2026-08-18T03:01:00Z"
+  "head": "0a64e398ec6bb34a494f0c347e8ccae53a862f8e",
+  "updatedAt": "2026-08-19T03:03:36Z",
+  "checkedAt": "2026-08-19T03:03:36Z"
 }
