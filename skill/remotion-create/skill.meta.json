@@ -1,8 +1,8 @@
 {
   "name": "remotion-create",
   "description": "Create a new Remotion video",
-  "version": "4.0.513",
-  "head": "21320596cf9008cf6ccaa6bf1a2b9f71c8f191c3",
-  "updatedAt": "2026-08-20T03:02:49Z",
-  "checkedAt": "2026-08-20T03:02:49Z"
+  "version": "4.0.514",
+  "head": "7fc6dea333869e23f58bf9e9861010e9ba589e5e",
+  "updatedAt": "2026-08-21T03:09:06Z",
+  "checkedAt": "2026-08-21T03:09:06Z"
 }
