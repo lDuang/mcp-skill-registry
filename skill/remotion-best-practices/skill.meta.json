@@ -1,8 +1,8 @@
 {
   "name": "remotion-best-practices",
   "description": "Router for all Remotion skills",
-  "version": "4.0.514",
-  "head": "7fc6dea333869e23f58bf9e9861010e9ba589e5e",
-  "updatedAt": "2026-08-21T03:09:06Z",
-  "checkedAt": "2026-08-21T03:09:06Z"
+  "version": "4.0.515",
+  "head": "baf0b919ff90bc980e8d2b73eb65a124cd262a64",
+  "updatedAt": "2026-08-22T02:59:57Z",
+  "checkedAt": "2026-08-22T02:59:57Z"
 }

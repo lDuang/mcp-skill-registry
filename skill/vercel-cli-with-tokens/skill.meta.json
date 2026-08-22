@@ -2,7 +2,7 @@
   "name": "vercel-cli-with-tokens",
   "description": "Deploy and manage projects on Vercel using token-based authentication. Use when working with Vercel CLI using access tokens rather than interactive login — e.g. \"deploy to vercel\", \"set up vercel\", \"add environment variables to vercel\".",
   "version": "1.0.0",
-  "head": "b8caa260a420a73042e35521de4b5c8baf6446cc",
-  "updatedAt": "2026-08-21T03:09:06Z",
-  "checkedAt": "2026-08-21T03:09:06Z"
+  "head": "dd089a8c752c966dee8bf0f27cb625ba193ffd9e",
+  "updatedAt": "2026-08-22T02:59:57Z",
+  "checkedAt": "2026-08-22T02:59:57Z"
 }
