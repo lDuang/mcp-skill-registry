@@ -1,8 +1,8 @@
 {
   "name": "remotion-upgrade",
   "description": "Upgrade Remotion, and related packages",
-  "version": "4.0.518",
-  "head": "7a3d0ca45d2f6a00bf35cb3c525734a36d55a834",
-  "updatedAt": "2026-08-31T08:31:34Z",
-  "checkedAt": "2026-08-31T08:31:34Z"
+  "version": "4.0.519",
+  "head": "357a270803b23e16b32bec65df07c41a62e94bd9",
+  "updatedAt": "2026-09-01T07:37:57Z",
+  "checkedAt": "2026-09-01T07:37:57Z"
 }

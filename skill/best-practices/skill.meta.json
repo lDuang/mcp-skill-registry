@@ -1,7 +1,7 @@
 {
   "name": "best-practices",
   "description": "Configure Better Auth server and client, set up database adapters, manage sessions, add plugins, and handle environment variables. Use when users mention Better Auth, betterauth, auth.ts, or need to set up TypeScript authentication with email/password, OAuth, or plugin configuration.",
-  "head": "17dfe3a1da1c3982de723098ba1015d67f35694c",
-  "updatedAt": "2026-08-31T08:31:34Z",
-  "checkedAt": "2026-08-31T08:31:34Z"
+  "head": "20c9e88a5c007461a703f1c213572b073196113e",
+  "updatedAt": "2026-09-01T07:37:57Z",
+  "checkedAt": "2026-09-01T07:37:57Z"
 }
