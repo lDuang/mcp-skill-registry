@@ -1,7 +1,7 @@
 {
   "name": "mcp-builder",
   "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
-  "head": "53048666b05b4799081517d00e09e0a2dd688678",
-  "updatedAt": "2026-09-03T07:04:14Z",
-  "checkedAt": "2026-09-03T07:04:14Z"
+  "head": "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f",
+  "updatedAt": "2026-09-04T07:08:28Z",
+  "checkedAt": "2026-09-04T07:08:28Z"
 }
