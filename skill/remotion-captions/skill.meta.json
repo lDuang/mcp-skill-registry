@@ -1,8 +1,8 @@
 {
   "name": "remotion-captions",
   "description": "Transcribing, displaying and animating captions",
-  "version": "4.0.525",
-  "head": "3b9e6561dababf40a485772a7cd641268bb7c365",
-  "updatedAt": "2026-09-17T07:28:29Z",
-  "checkedAt": "2026-09-17T07:28:29Z"
+  "version": "4.0.526",
+  "head": "bbb139d5ba3709b1ffeb27184e9579c681230a08",
+  "updatedAt": "2026-09-18T07:17:08Z",
+  "checkedAt": "2026-09-18T07:17:08Z"
 }
