@@ -1,7 +1,7 @@
 {
   "name": "swiftui-expert-skill",
-  "description": "Use when writing, reviewing, or refactoring SwiftUI code for iOS or macOS, including state and `@Observable` data flow, view composition, performance, lists, environment, localization, animation, Liquid Glass, and API migration. Also use for `@State` initialization or synthesized-property diagnostics, `@ContentBuilder` ambiguity, `reorderable` drag/drop, custom `AsyncImage` `URLSession`, swipe actions outside List, item-bound `alert`/`confirmationDialog`, `ToolbarOverflowMenu`, `AnimatableValues`, Document APIs (`Document`/`DocumentReader`), and Instruments `.trace` capture or analysis.",
-  "head": "00a94e15f30397a4c79b6dee78327f87f828d75e",
-  "updatedAt": "2026-09-18T07:17:08Z",
-  "checkedAt": "2026-09-18T07:17:08Z"
+  "description": "Use when writing, reviewing, or refactoring SwiftUI code for iOS or macOS, including state and `@Observable` data flow, view composition, resizable layouts, safe areas, display scale, performance, lists, environment, localization, animation, Liquid Glass, and API migration. Also use for iPhone Duo or foldable layouts, `ArrangementView`, `ReservedRegion`, hinge effects, vertical bars, `@State` initialization or synthesized-property diagnostics, `@ContentBuilder` ambiguity, `reorderable` drag/drop, custom `AsyncImage` `URLSession`, swipe actions outside List, item-bound `alert`/`confirmationDialog`, `ToolbarOverflowMenu`, `AnimatableValues`, Document APIs (`Document`/`DocumentReader`), and Instruments `.trace` capture or analysis.",
+  "head": "b24e68a965dc4b5bd2cc41dc60c094a26a9379ce",
+  "updatedAt": "2026-09-19T07:14:17Z",
+  "checkedAt": "2026-09-19T07:14:17Z"
 }
