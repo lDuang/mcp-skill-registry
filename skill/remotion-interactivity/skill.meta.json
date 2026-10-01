@@ -1,8 +1,8 @@
 {
   "name": "remotion-interactivity",
   "description": "Structure Remotion markup for interactivity",
-  "version": "4.0.530",
-  "head": "a1b09e904a995f8bbf6d3b865fc612eedf7a4c43",
-  "updatedAt": "2026-09-30T08:16:28Z",
-  "checkedAt": "2026-09-30T08:16:28Z"
+  "version": "4.0.532",
+  "head": "0b5db9daae40f42c73544d1cc0a8c733bd530eaa",
+  "updatedAt": "2026-10-01T08:39:55Z",
+  "checkedAt": "2026-10-01T08:39:55Z"
 }
