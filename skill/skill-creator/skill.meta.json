@@ -1,7 +1,7 @@
 {
   "name": "skill-creator",
   "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
-  "head": "8a1541c4a3ffa5a20a5a91de0dcf3f0bab1d1ef4",
-  "updatedAt": "2026-10-05T08:46:36Z",
-  "checkedAt": "2026-10-05T08:46:36Z"
+  "head": "683bc88e56f3e09ba94f7055977f3d3aa499f202",
+  "updatedAt": "2026-10-06T08:49:36Z",
+  "checkedAt": "2026-10-06T08:49:36Z"
 }
