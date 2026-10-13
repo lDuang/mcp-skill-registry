@@ -1,8 +1,8 @@
 {
   "name": "remotion-saas",
   "description": "Build an app with Remotion",
-  "version": "4.0.534",
-  "head": "32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5",
-  "updatedAt": "2026-10-12T08:58:20Z",
-  "checkedAt": "2026-10-12T08:58:20Z"
+  "version": "4.0.535",
+  "head": "7ba4dcf8ebe1626b00baa41e1f2478113719b60b",
+  "updatedAt": "2026-10-13T09:13:14Z",
+  "checkedAt": "2026-10-13T09:13:14Z"
 }
