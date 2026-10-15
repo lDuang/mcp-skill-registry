@@ -2,6 +2,6 @@
   "name": "algorithmic-art",
   "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
   "head": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
-  "updatedAt": "2026-10-14T07:23:48Z",
-  "checkedAt": "2026-10-14T07:23:48Z"
+  "updatedAt": "2026-10-15T07:14:38Z",
+  "checkedAt": "2026-10-15T07:14:38Z"
 }
