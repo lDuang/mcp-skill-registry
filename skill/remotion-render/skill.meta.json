@@ -1,8 +1,8 @@
 {
   "name": "remotion-render",
   "description": "Export a Remotion video",
-  "version": "4.0.539",
-  "head": "30d4553ecd46fbc5212fd0ff006ae43af522158b",
-  "updatedAt": "2026-11-01T08:59:28Z",
-  "checkedAt": "2026-11-01T08:59:28Z"
+  "version": "4.0.540",
+  "head": "c7cb2fdcacd134fb2ccb9b7a44f9ffa44e467271",
+  "updatedAt": "2026-11-02T09:12:43Z",
+  "checkedAt": "2026-11-02T09:12:43Z"
 }
