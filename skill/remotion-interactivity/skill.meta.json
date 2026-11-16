@@ -1,8 +1,8 @@
 {
   "name": "remotion-interactivity",
   "description": "Structures Remotion markup so layers, timing and styles are editable in Remotion Studio. Use when writing a new composition or restructuring existing markup.",
-  "version": "4.0.543",
-  "head": "7e541aa4d7361dfaca0780a565a47307eb7bdfbb",
-  "updatedAt": "2026-11-15T09:04:34Z",
-  "checkedAt": "2026-11-15T09:04:34Z"
+  "version": "4.0.544",
+  "head": "3e20ac75161bc34468845df714701cc9bf6075f4",
+  "updatedAt": "2026-11-16T09:20:57Z",
+  "checkedAt": "2026-11-16T09:20:57Z"
 }
