@@ -2,7 +2,7 @@
   "name": "react-view-transitions",
   "description": "Guide for implementing smooth, native-feeling animations using React's View Transition API (`\u003cViewTransition\u003e` component, `addTransitionType`, and CSS view transition pseudo-elements). Use this skill whenever the user wants to add page transitions, animate route changes, create shared element animations, animate enter/exit of components, animate list reorder, implement directional (forward/back) navigation animations, or integrate view transitions in Next.js. Also use when the user mentions view transitions, `startViewTransition`, `ViewTransition`, transition types, or asks about animating between UI states in React without third-party animation libraries.",
   "version": "1.0.0",
-  "head": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
-  "updatedAt": "2026-11-20T09:53:29Z",
-  "checkedAt": "2026-11-20T09:53:29Z"
+  "head": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+  "updatedAt": "2026-11-21T09:30:08Z",
+  "checkedAt": "2026-11-21T09:30:08Z"
 }
