@@ -3,6 +3,6 @@
   "description": "Preserve work progress across disconnected sessions. Use '/work-session save' when ending work, '/work-session restore' when starting fresh.",
   "version": "0.0.1",
   "head": "f1396ccb404deabd6c25940bfc64ebe46d7adc57",
-  "updatedAt": "2026-11-21T09:30:08Z",
-  "checkedAt": "2026-11-21T09:30:08Z"
+  "updatedAt": "2026-11-22T09:36:01Z",
+  "checkedAt": "2026-11-22T09:36:01Z"
 }
